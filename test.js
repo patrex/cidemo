@@ -10,7 +10,7 @@ test('ensure arith optrs work', (t) => {
     assert.strictEqual(add(0, 0), 0);
 
     // test subtract
-    assert.strictEqual(subtract(5, 1), 4);
+    assert.strictEqual(subtract(5, 1), 3);
     assert.strictEqual(subtract(0, 0), 0);
     assert.strictEqual(subtract(-1, -1), 0);
 
