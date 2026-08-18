@@ -1,0 +1,16 @@
+{
+  "name": "ci_cd_demo",
+  "version": "1.0.0",
+  "description": "ci-cd test project",
+  "keywords": [
+    "ci-cd"
+  ],
+  "license": "MIT",
+  "author": "sokari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test.js",
+    "start": "node index.js"
+  }
+}
